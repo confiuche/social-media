@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20"
+  },
+  "name": "app-express",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "nodemon app.js"
+  },
+  "keywords": [
+    "mongodb",
+    "express",
+    "mongoose",
+    "node",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
